@@ -1,0 +1,48 @@
+F:\C#\TopLearn.Com_Csharp_Part19\MyContacts\MyContacts\obj\Debug\MyContacts.Form1.resources
+F:\C#\TopLearn.Com_Csharp_Part19\MyContacts\MyContacts\obj\Debug\MyContacts.Properties.Resources.resources
+F:\C#\TopLearn.Com_Csharp_Part19\MyContacts\MyContacts\obj\Debug\MyContacts.csproj.GenerateResource.cache
+F:\C#\TopLearn.Com_Csharp_Part19\MyContacts\MyContacts\obj\Debug\MyContacts.csproj.CoreCompileInputs.cache
+F:\C#\TopLearn.Com_Csharp_Part19\MyContacts\MyContacts\bin\Debug\MyContacts.exe.config
+F:\C#\TopLearn.Com_Csharp_Part19\MyContacts\MyContacts\bin\Debug\MyContacts.exe
+F:\C#\TopLearn.Com_Csharp_Part19\MyContacts\MyContacts\bin\Debug\MyContacts.pdb
+F:\C#\TopLearn.Com_Csharp_Part19\MyContacts\MyContacts\obj\Debug\MyContacts.exe
+F:\C#\TopLearn.Com_Csharp_Part19\MyContacts\MyContacts\obj\Debug\MyContacts.pdb
+C:\Users\El Camino\Downloads\TopLearn.Com_Csharp_Part19\MyContacts\MyContacts\bin\Debug\MyContacts.exe.config
+C:\Users\El Camino\Downloads\TopLearn.Com_Csharp_Part19\MyContacts\MyContacts\bin\Debug\MyContacts.exe
+C:\Users\El Camino\Downloads\TopLearn.Com_Csharp_Part19\MyContacts\MyContacts\bin\Debug\MyContacts.pdb
+C:\Users\El Camino\Downloads\TopLearn.Com_Csharp_Part19\MyContacts\MyContacts\obj\Debug\MyContacts.csproj.AssemblyReference.cache
+C:\Users\El Camino\Downloads\TopLearn.Com_Csharp_Part19\MyContacts\MyContacts\obj\Debug\MyContacts.Form1.resources
+C:\Users\El Camino\Downloads\TopLearn.Com_Csharp_Part19\MyContacts\MyContacts\obj\Debug\MyContacts.Properties.Resources.resources
+C:\Users\El Camino\Downloads\TopLearn.Com_Csharp_Part19\MyContacts\MyContacts\obj\Debug\MyContacts.csproj.GenerateResource.cache
+C:\Users\El Camino\Downloads\TopLearn.Com_Csharp_Part19\MyContacts\MyContacts\obj\Debug\MyContacts.csproj.CoreCompileInputs.cache
+C:\Users\El Camino\Downloads\TopLearn.Com_Csharp_Part19\MyContacts\MyContacts\obj\Debug\MyContacts.exe
+C:\Users\El Camino\Downloads\TopLearn.Com_Csharp_Part19\MyContacts\MyContacts\obj\Debug\MyContacts.pdb
+C:\Users\El Camino\Downloads\TopLearn.Com_Csharp_Part19\MyContacts\MyContacts\obj\Debug\MyContacts.frmADDOrEdite.resources
+C:\Users\El Camino\Downloads\TopLearn.Com_Csharp_Part19\MyContacts\MyContacts\obj\Debug\MyContacts.frmAddOrEdit.resources
+C:\Users\El Camino\Desktop\الان دارم رو این کار میکنم\MyContacts\MyContacts\bin\Debug\MyContacts.exe.config
+C:\Users\El Camino\Desktop\الان دارم رو این کار میکنم\MyContacts\MyContacts\bin\Debug\MyContacts.exe
+C:\Users\El Camino\Desktop\الان دارم رو این کار میکنم\MyContacts\MyContacts\bin\Debug\MyContacts.pdb
+C:\Users\El Camino\Desktop\الان دارم رو این کار میکنم\MyContacts\MyContacts\obj\Debug\MyContacts.csproj.AssemblyReference.cache
+C:\Users\El Camino\Desktop\الان دارم رو این کار میکنم\MyContacts\MyContacts\obj\Debug\MyContacts.Form1.resources
+C:\Users\El Camino\Desktop\الان دارم رو این کار میکنم\MyContacts\MyContacts\obj\Debug\MyContacts.frmADDOrEdite.resources
+C:\Users\El Camino\Desktop\الان دارم رو این کار میکنم\MyContacts\MyContacts\obj\Debug\MyContacts.Properties.Resources.resources
+C:\Users\El Camino\Desktop\الان دارم رو این کار میکنم\MyContacts\MyContacts\obj\Debug\MyContacts.csproj.GenerateResource.cache
+C:\Users\El Camino\Desktop\الان دارم رو این کار میکنم\MyContacts\MyContacts\obj\Debug\MyContacts.csproj.CoreCompileInputs.cache
+C:\Users\El Camino\Desktop\الان دارم رو این کار میکنم\MyContacts\MyContacts\obj\Debug\MyContacts.exe
+C:\Users\El Camino\Desktop\الان دارم رو این کار میکنم\MyContacts\MyContacts\obj\Debug\MyContacts.pdb
+C:\Users\El Camino\Desktop\فرم ساده برای ذخیره داده\MyContacts\MyContacts\bin\Debug\MyContacts.exe.config
+C:\Users\El Camino\Desktop\فرم ساده برای ذخیره داده\MyContacts\MyContacts\bin\Debug\MyContacts.exe
+C:\Users\El Camino\Desktop\فرم ساده برای ذخیره داده\MyContacts\MyContacts\bin\Debug\MyContacts.pdb
+C:\Users\El Camino\Desktop\فرم ساده برای ذخیره داده\MyContacts\MyContacts\bin\Debug\EntityFramework.dll
+C:\Users\El Camino\Desktop\فرم ساده برای ذخیره داده\MyContacts\MyContacts\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\El Camino\Desktop\فرم ساده برای ذخیره داده\MyContacts\MyContacts\bin\Debug\EntityFramework.xml
+C:\Users\El Camino\Desktop\فرم ساده برای ذخیره داده\MyContacts\MyContacts\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\El Camino\Desktop\فرم ساده برای ذخیره داده\MyContacts\MyContacts\obj\Debug\MyContacts.csproj.AssemblyReference.cache
+C:\Users\El Camino\Desktop\فرم ساده برای ذخیره داده\MyContacts\MyContacts\obj\Debug\MyContacts.Form1.resources
+C:\Users\El Camino\Desktop\فرم ساده برای ذخیره داده\MyContacts\MyContacts\obj\Debug\MyContacts.frmADDOrEdite.resources
+C:\Users\El Camino\Desktop\فرم ساده برای ذخیره داده\MyContacts\MyContacts\obj\Debug\MyContacts.Properties.Resources.resources
+C:\Users\El Camino\Desktop\فرم ساده برای ذخیره داده\MyContacts\MyContacts\obj\Debug\MyContacts.csproj.GenerateResource.cache
+C:\Users\El Camino\Desktop\فرم ساده برای ذخیره داده\MyContacts\MyContacts\obj\Debug\MyContacts.csproj.CoreCompileInputs.cache
+C:\Users\El Camino\Desktop\فرم ساده برای ذخیره داده\MyContacts\MyContacts\obj\Debug\MyContacts.csproj.CopyComplete
+C:\Users\El Camino\Desktop\فرم ساده برای ذخیره داده\MyContacts\MyContacts\obj\Debug\MyContacts.exe
+C:\Users\El Camino\Desktop\فرم ساده برای ذخیره داده\MyContacts\MyContacts\obj\Debug\MyContacts.pdb
